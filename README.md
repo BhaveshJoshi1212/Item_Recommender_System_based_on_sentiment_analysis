@@ -5,6 +5,8 @@
 Developed an advanced recommendation system integrating **collaborative filtering** and **sentiment analysis** to deliver personalized product suggestions based on user reviews. This system combines multiple machine learning and NLP techniques to enhance recommendation accuracy and relevance.
 
 
+![Recommendation System Approaches](https://github.com/user-attachments/assets/9ca7d60b-2ea2-4690-a4af-4a3ac35513bc)
+
 ## Major Techniques Used
 
 - **Natural Language Processing (NLP):**
